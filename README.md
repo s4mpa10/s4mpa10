@@ -45,8 +45,8 @@
 </div>
 <div>
   <a href="https://github.com/s4mpa10">
-  <img heigth= "180em" width= "44%" src="https://github-readme-stats.vercel.app/api?username=s4mpa10&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img heigth= "180em" width= "33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4mpa10&layout=compact&lagns_count=16&theme=github_dark"/>
+  <img heigth= "180em" src="https://github-readme-stats.vercel.app/api?username=s4mpa10&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img heigth= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4mpa10&layout=compact&lagns_count=16&theme=github_dark"/>
 </div>
 
 <hr>
