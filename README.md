@@ -42,8 +42,8 @@
 
 <div align="center">
   <a href="https://github.com/s4mpa10">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=s4mpa10&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4mpa10&layout=compact&lagns_count=16&card_width=375&theme=github_dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=s4mpa10&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4mpa10&layout=compact&lagns_count=16&card_width=375&theme=github_dark"/>
 </div>
 
 <hr>
