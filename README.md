@@ -2,7 +2,7 @@
 
 ###
 <div>
-  <p align="left">Sou estudante de Ciência da Computação, com forte interesse em codificação, tecnologias e na busca constante por novos desafios. Tenho entusiasmo em aprender, experimentar e desenvolver soluções que contribuam para o avanço tecnológico, sempre buscando aprimorar minhas habilidades e explorar novas possibilidades na área.</p>
+  <p align="left">Sou estudante de Ciência da Computação, com forte interesse em codificação, tecnologias e na busca constante por novos desafios. Tenho entusiasmo em aprender, experimentar e desenvolver soluções que contribuam para o avanço tecnológico, sempre buscando aprimorar minhas habilidades e explorar novas possibilidades na área. Sou estudante de Ciência da Computação, com forte interesse em codificação, tecnologias e na busca constante por novos desafios. Tenho entusiasmo em aprender, experimentar e desenvolver soluções que contribuam para o avanço tecnológico, sempre buscando aprimorar minhas habilidades e explorar novas possibilidades na área. Sou estudante de Ciência da Computação, com forte interesse em codificação, tecnologias e na busca constante por novos desafios. Tenho entusiasmo em aprender, experimentar e desenvolver soluções que contribuam para o avanço tecnológico, sempre buscando aprimorar minhas habilidades e explorar novas possibilidades na área.</p>
   <img align="right" height="200" src="https://i.pinimg.com/originals/f4/6c/ac/f46caceaa923268d9f1590d53a34b153.gif" />
 </div>
 <br>
