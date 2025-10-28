@@ -2,7 +2,7 @@
 
 ###
 <div>
-  <p align="left">Sou desenvolvedor backend com foco em JavaScript, sempre em constante aprendizado e em busca de novos projetos que me permitam aprimorar minhas habilidades e expandir meus conhecimentos. Além disso, tenho interesse em compartilhar experiências e aprendizados sobre programação, contribuindo para a evolução da comunidade e para o crescimento coletivo.</p>
+  <p align="justify">Sou desenvolvedor backend com foco em JavaScript, sempre em constante aprendizado e em busca de novos projetos que me permitam aprimorar minhas habilidades e expandir meus conhecimentos. Além disso, tenho interesse em compartilhar experiências e aprendizados sobre programação, contribuindo para a evolução da comunidade e para o crescimento coletivo.</p>
 </div>
 
 <h3 align="left">⚒️ Linguagens e ferramentas</h3>
