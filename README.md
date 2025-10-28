@@ -2,10 +2,9 @@
 
 ###
 <div>
-  <p align="left">Sou estudante de Ciência da Computação, com forte interesse em codificação, tecnologias e na busca constante por novos desafios. Tenho entusiasmo em aprender, experimentar e desenvolver soluções que contribuam para o avanço tecnológico, sempre buscando aprimorar minhas habilidades e explorar novas possibilidades na área. Sou estudante de Ciência da Computação, com forte interesse em codificação, tecnologias e na busca constante por novos desafios. Tenho entusiasmo em aprender, experimentar e desenvolver soluções que contribuam para o avanço tecnológico, sempre buscando aprimorar minhas habilidades e explorar novas possibilidades na área. Sou estudante de Ciência da Computação, com forte interesse em codificação, tecnologias e na busca constante por novos desafios. Tenho entusiasmo em aprender, experimentar e desenvolver soluções que contribuam para o avanço tecnológico, sempre buscando aprimorar minhas habilidades e explorar novas possibilidades na área.</p>
-  <img align="right" height="200" src="https://i.pinimg.com/originals/f4/6c/ac/f46caceaa923268d9f1590d53a34b153.gif" />
+  <p align="left">Sou estudante de Ciência da Computação, com forte interesse em codificação, tecnologias e na busca constante por novos desafios. Tenho entusiasmo em aprender, experimentar e desenvolver soluções que contribuam para o avanço tecnológico, sempre buscando aprimorar minhas habilidades e explorar novas possibilidades na área. </p>
 </div>
-<br>
+
 <h3 align="left">⚒️ Linguagens e ferramentas</h3>
 
 ###
@@ -22,15 +21,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32" alt="csharp logo"  />
   <img width="19" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="32" alt="cmake logo"  />
-  <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="32" alt="raspberrypi logo"  />
+  <!-- <img width="19" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="32" alt="raspberrypi logo"  /> -->
   <img width="19" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="git logo"  />
   <img width="19" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="32" alt="grafana logo"  />
 </div>
-<br>
 
+<br>
 
 <h3 align="left">📊 Minhas estatísticas no Github</h3>
 
@@ -48,15 +47,15 @@
 
 <hr>
 
-<h3 align="left">📲 Informações para contato</h3>
-
-###
+<div>
+  <img align="right" height="200" src="https://i.pinimg.com/originals/f4/6c/ac/f46caceaa923268d9f1590d53a34b153.gif" />
+  <h3 align="left">📲 Informações para contato</h3>
+</div>
 
 <div align="left">
   <a href="https://www.instagram.com/alansampaio.dev"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/></a>
   <!-- <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> -->
   <a href="https://www.linkedin.com/in/alan-sampaio-3a543a276/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-  <!-- <img align="right" height="200" src="https://i.pinimg.com/originals/f4/6c/ac/f46caceaa923268d9f1590d53a34b153.gif" /> -->
 </div>
 
 ###
